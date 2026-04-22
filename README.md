@@ -49,6 +49,7 @@ Certifications & Upskilling
 
 Homelab Projects
 
+*More projects being added regularly*
 
 Additional Skills
 
