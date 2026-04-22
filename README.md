@@ -5,7 +5,7 @@ Profile
 Helpdesk Technician | IT Support Specialist | Aspiring Security Analyst
 
 📍 Nairobi, Kenya — Available for Remote Roles Globally
-📧 techynates@gmail.com
+📧 techynates@gmail.com    
 🔗 linkedin.com/in/anyangusimonk
 
 About Me
