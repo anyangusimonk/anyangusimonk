@@ -1,18 +1,17 @@
-# t-nates
-Profile
-# Hi, I'm Nate 👋
+## anyangusimonk
+# Hi, I'm Anyangu. K. Simon👋
 
-Helpdesk Technician | IT Support Specialist | Aspiring Security Analyst
+**Helpdesk Technician | IT Support Specialist | Aspiring Security Analyst**
 
-📍 Nairobi, Kenya — Available for Remote Roles Globally
-📧 techynates@gmail.com    
-🔗 linkedin.com/in/anyangusimonk
+>📍 Nairobi, Kenya - Currently open to Remote Helpdesk and IT Support Roles Globally
+> 📧 Feel free to connect - techynates@gmail.com    
+> 🔗 linkedin.com/in/anyangusimonk
 
-About Me
+## About Me
 
 Results-driven Help Desk / IT Support Specialist with hands-on experience resolving hardware, software, and connectivity issues across Windows, Linux and macOS environments. Proven track record managing full user account lifecycles in Active Directory and Microsoft 365, enforcing security compliance, and reducing resolution time by 40% through systematic ticket workflows. Experienced with Zendesk, Jira, and ServiceNow ticketing systems and adept at documenting solutions to prevent issue recurrence. Comfortable working independently in fully remote environments, without constant supervision. Currently undertaking a BSc in Computer Science and pursuing CompTIA Network+ and SAL1 to enhance expertise on systems I endeavor to protect. Transitioning into cybersecurity with a foundation built on practical systems administration and IAM experience.
 
-Technical Skills
+## Technical Skills
 
 Operating Systems: Windows Server 2019/2022/2025, Windows 7/8/10/11, 
 macOS, Linux
