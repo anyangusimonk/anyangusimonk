@@ -8,11 +8,15 @@
 
 ## About Me
 
-I'm an IT Support professional based in Nairobi with a genuine interest in how systems work and a hands-on approach to learning. My background spans end-user support, Active Directory administration, 
-and Identity and Access Management, and I bring that experience into a homelab environment where I simulate real enterprise scenarios to sharpen my skills and build a portfolio that reflects actual work, 
-not just theory. I work well independently, document everything I do, and take the kind of initiative that doesn't wait for someone to assign a task. Currently deepening my expertise through a BSc in 
-Computer Science and certifications in Network+ and SAL1, to deepen my understanding and stay abreast in the ever evolving IT field with a foundation built on practical systems administration and IAM experience.
-while becoming an all-rounded Helpdesk Engineer. Skills directly transferable to enterprise environments. Experience in phone, email, and chat-based customer service with background in client-facing roles.
+IT Support professional based in Nairobi with a genuine curiosity about how systems work and a hands-on approach to building real skills. My background spans end-user support, Active Directory administration, and Identity & Access Management — experience I carry into a homelab where I simulate enterprise scenarios, document everything, and build a portfolio that reflects actual work, not just theory.
+I take initiative without waiting to be asked, work well independently, and treat every lab exercise like a production ticket.
+Currently pursuing a BSc in Computer Science alongside CompTIA Network+ and SAL1 certifications — deepening the foundation while working toward becoming a well-rounded Helpdesk Engineer ready for enterprise environments.
+
+### What I bring:
+- Hands-on IAM & Active Directory experience
+- End-to-end documentation habits
+- Phone, email & chat-based support across client-facing roles
+- Skills built for real environments, not just coursework
 
 ## Technical Skills
 
