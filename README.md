@@ -2,9 +2,8 @@
 
 **Helpdesk Technician | IT Support Specialist |**
 
->📍 Nairobi, Kenya - Currently open to Remote Helpdesk and IT Support Roles Globally
-> 📧 Feel free to connect - techynates@gmail.com    
-> 🔗 linkedin.com/in/anyangusimonk
+>📍 Nairobi, Kenya - Currently open to Remote Helpdesk and IT Support Roles Globally.   
+> 🔗 Feel free to connect - [LinkedIn](https://linkedin.com/in/anyangusimonk) | techynates@gmail.com
 
 ## About Me
 
