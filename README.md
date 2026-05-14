@@ -48,6 +48,7 @@ These are hands-on lab projects built in a simulated enterprise environment usin
 Windows Server & Client-side | Active Directory | PowerShell | VirtualBox | Azure AD | Okta | Wireshark | Burp Suite | ServiceNow | Zendesk | Microsoft 365 | Jira | osTicket | VMware
 
 - [Arabella-AD-Migration: Decentralized Workgroup to Centralized Active Directory domain migration and Data Integrity verification](https://github.com/anyangusimonk/Arabella-AD-Migration)
+- [Security Hardening Pt1: Password Policy Enforcement](https://github.com/anyangusimonk/Arabella-Inc-Password-Policy-Enforcement)
 
 *Updated regularly as new labs are completed*
 
