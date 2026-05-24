@@ -49,7 +49,7 @@ Windows Server & Client-side | Active Directory | PowerShell | VirtualBox | Azur
 
 - [Arabella AD-Migration: Decentralized Workgroup to Centralized Active Directory domain migration and Data Integrity verification](https://github.com/anyangusimonk/Arabella-AD-Migration)
 - [Arabella AD-Security Hardening Pt1: Password Policy Enforcement](https://github.com/anyangusimonk/Arabella-Inc-Password-Policy-Enforcement)
-- [Arabella AD-Security Hardening Pt2: Network Security Fortification Against LLMNR, NBT-NS, mDNS & SMB Prptpcols](https://github.com/anyangusimonk/ArabellaInc.-Network-Security-Fortification-)
+- [Arabella AD-Security Hardening Pt2: Network Security Fortification Against LLMNR, NBT-NS, mDNS & SMB Protocols](https://github.com/anyangusimonk/ArabellaInc.-Network-Security-Fortification-)
 
 *Updated regularly as new labs are completed*
 
